@@ -1,4 +1,4 @@
-![Fung Pu Kanda](imagenes/imagenes/fung_pu_kanda.png)
+![Fung Pu Kanda](imagenes/fung_pu_kanda.png)
 
 # Tarea 1.1.1 usando Markdown
 ## Subtítulos 
