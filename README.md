@@ -27,6 +27,8 @@
 
 [IESAlbarregas](https://informatica.iesalbarregas.com/my/)
 
+[Prueba enlace](prueba.md)
+
 Pagina web de Nike SB [NikeSB][SB]
 
 [SB]: https://www.nike.com/es/skateboarding
